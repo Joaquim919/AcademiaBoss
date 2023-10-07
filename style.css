@@ -165,13 +165,14 @@ main {
         display: block;
     }
     .primary-text{
-        width: 350px;
-    }
-    .second-text{
         width: 250px;
     }
-    .btns{
-        display: block;
-        position: relative;
+    .second-text{
+        width: 150px;
+    }
+    .btns button{
+        display: inline;
+        position: center;
+        width: 150px;
     }
 }
