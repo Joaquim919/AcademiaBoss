@@ -157,3 +157,21 @@ main {
 .btns button:hover:before {
     width: 100%;
 }
+
+/*responsividade*/
+
+@media (max-width:800px){
+    .menu-content{
+        display: block;
+    }
+    .primary-text{
+        width: 350px;
+    }
+    .second-text{
+        width: 250px;
+    }
+    .btns{
+        display: block;
+        position: relative;
+    }
+}
