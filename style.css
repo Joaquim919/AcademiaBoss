@@ -162,10 +162,10 @@ main {
 
 @media (max-width:800px){
     .menu-content{
-        display: block;
+        display: inline-block;
     }
     .primary-text{
-        width: 250px;
+        width: 300px;
     }
     .second-text{
         width: 150px;
