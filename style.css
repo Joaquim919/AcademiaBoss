@@ -160,9 +160,11 @@ main {
 
 /*responsividade*/
 
+/*responsividade*/
+
 @media (max-width:800px){
     .menu-content{
-        display: inline-block;
+        display: block;
     }
     .primary-text{
         width: 300px;
